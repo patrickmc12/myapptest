@@ -1,3 +1,3 @@
-#MyApp
+# MyApp
 
-*This is a test app* Please check it out!
+**This is a test app** Please check it out!
